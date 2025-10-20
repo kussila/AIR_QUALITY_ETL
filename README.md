@@ -133,6 +133,6 @@ This project is released under the MIT License.
 
 [Your Name] – Data Engineering & Python Enthusiast
 
-GitHub: https://github.com/yourusername  
-LinkedIn: https://www.linkedin.com/in/yourlinkedin
+GitHub: [https://github.com/yourusername ](https://github.com/kussila) 
+LinkedIn: www.linkedin.com/in/kussilamhn
 
